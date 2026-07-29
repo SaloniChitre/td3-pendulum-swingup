@@ -22,7 +22,7 @@ The continuous action space rules out discrete-action methods like DQN. TD3 impr
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/td3-pendulum-swingup.git
+git clone https://github.com/SaloniChitre/td3-pendulum-swingup.git
 cd td3-pendulum-swingup
 
 # Create and activate a virtual environment (conda example)
