@@ -36,7 +36,7 @@ pip install -r requirements.txt
 ## Run
 
 ```bash
-python pendulum.py
+python Pendulum.py
 ```
 
 This will:
@@ -85,7 +85,7 @@ All hyperparameters are used as published in Fujimoto et al. (2018), not hand-tu
 
 ```
 td3-pendulum-swingup/
-├── pendulum.py              # Full TD3 implementation, training loop, evaluation
+├── Pendulum.py              # Full TD3 implementation, training loop, evaluation
 ├── requirements.txt         # Python dependencies
 ├── td3_learning_curve.png   # Generated: reward vs. episode plot
 ├── trained_pendulum.gif     # Generated: trained agent demonstration
